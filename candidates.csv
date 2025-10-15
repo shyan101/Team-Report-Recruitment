@@ -1,0 +1,501 @@
+candidate_id,candidate_name,gender,education,source
+1,Jamie Bell,Female,PhD,Indeed
+2,James Yang,Other,Masters,Job Fair
+3,Paul White,Other,Bachelors,Job Fair
+4,Ryan Richard,Other,PhD,Indeed
+5,Jeffrey Hughes,Male,Masters,LinkedIn
+6,Lisa Gonzalez,Male,Masters,LinkedIn
+7,Todd Hill,Male,PhD,Indeed
+8,Victor Hendricks,Other,Masters,Website
+9,Joseph Brandt,Female,PhD,Job Fair
+10,Cory Leonard,Other,PhD,Job Fair
+11,Kim Hoffman,Other,PhD,Job Fair
+12,Brian Castillo,Male,Masters,Job Fair
+13,Eric Lutz,Female,Bachelors,LinkedIn
+14,Darren Smith,Female,Masters,Job Fair
+15,Kelly Silva,Male,Masters,Job Fair
+16,Johnny Mccall,Male,Masters,Indeed
+17,Andrew Zavala,Female,Masters,Referral
+18,Gerald Wagner,Female,PhD,Job Fair
+19,Steven Jones,Female,Masters,Website
+20,Brooke Sanchez,Other,Bachelors,Job Fair
+21,Katie Taylor,Other,Masters,Job Fair
+22,Marie Smith,Female,PhD,Indeed
+23,Daniel Murphy,Female,Bachelors,Website
+24,Christine Barnes,Female,PhD,Referral
+25,Ruth Calderon,Other,PhD,Website
+26,Sean Weber,Female,Masters,Website
+27,Jonathan Hall,Male,Bachelors,LinkedIn
+28,Matthew Brown,Female,Bachelors,Referral
+29,Eugene Jones,Other,PhD,Referral
+30,Jeremiah Dyer,Male,Bachelors,Referral
+31,Phyllis Wilson,Female,Masters,Website
+32,Logan Munoz,Male,Bachelors,Indeed
+33,Peter Robinson,Female,PhD,Job Fair
+34,Walter Adams,Male,PhD,Referral
+35,Kristen Nguyen,Male,Masters,Website
+36,Sarah Jones,Female,Bachelors,Indeed
+37,Mr. Justin Cabrera,Female,PhD,Website
+38,Robert Sims,Female,Bachelors,Website
+39,John Davis,Other,PhD,Website
+40,Christopher Palmer,Male,PhD,Indeed
+41,Bradley Green,Other,PhD,LinkedIn
+42,Robert Stephens,Male,PhD,Indeed
+43,Dan Sullivan,Female,PhD,Website
+44,Jason Alexander,Other,Masters,Job Fair
+45,Jeffrey Thompson,Male,Bachelors,Job Fair
+46,Joshua Jarvis,Male,PhD,LinkedIn
+47,Jennifer Hanson,Other,Bachelors,Website
+48,Amanda Mccoy,Female,Bachelors,Referral
+49,Marcus Gonzalez,Male,Bachelors,LinkedIn
+50,Taylor Johnson,Male,Bachelors,Job Fair
+51,Christopher Cummings,Other,Masters,Job Fair
+52,Michael Galvan,Female,Bachelors,Job Fair
+53,Gregory Ruiz,Other,Bachelors,LinkedIn
+54,Joe Andrade,Female,Masters,Website
+55,Margaret Tanner,Male,Masters,Job Fair
+56,Jason Underwood,Female,PhD,LinkedIn
+57,Pamela Long,Female,PhD,Referral
+58,Linda Smith,Other,PhD,Job Fair
+59,Lindsey Villanueva,Male,Bachelors,Job Fair
+60,Tracy Wilcox,Other,PhD,Indeed
+61,Robert Cobb MD,Female,Bachelors,LinkedIn
+62,Dawn Armstrong,Male,Bachelors,Website
+63,Richard Brown,Other,PhD,Website
+64,Aaron Stokes,Male,Masters,Indeed
+65,Manuel Grimes,Female,Bachelors,LinkedIn
+66,Brian Bryant,Male,PhD,Indeed
+67,Shelby Perry,Female,PhD,Referral
+68,Elizabeth Perry,Female,Bachelors,Indeed
+69,Elizabeth Johnson,Female,PhD,Indeed
+70,Heather Richard,Male,PhD,Job Fair
+71,Victoria Meyers,Female,PhD,LinkedIn
+72,Cesar Casey,Male,Masters,LinkedIn
+73,Adam Coleman,Female,Masters,Referral
+74,Daniel Howell,Other,Masters,Job Fair
+75,Claire Sutton,Other,PhD,Website
+76,Maria Patrick,Male,PhD,Indeed
+77,William Hester,Female,Bachelors,Website
+78,Nancy West,Female,PhD,Website
+79,Eric Shea,Other,Masters,LinkedIn
+80,Terry Morris,Female,Bachelors,Referral
+81,William Lee,Female,Bachelors,Referral
+82,Alice Barker,Male,Bachelors,Referral
+83,Julie Fleming,Male,PhD,Referral
+84,Todd Hoffman,Male,PhD,LinkedIn
+85,Karla Clark,Other,PhD,Job Fair
+86,Lisa Rodriguez,Other,PhD,Job Fair
+87,Bruce Phillips,Other,PhD,Website
+88,Alexis Montoya,Female,Bachelors,Website
+89,Crystal Vega,Female,Masters,Indeed
+90,Amy Owens,Female,Masters,Indeed
+91,Matthew Andrade,Male,PhD,LinkedIn
+92,Michelle Garcia,Female,Masters,Referral
+93,John Hobbs,Female,PhD,Referral
+94,Alex White,Other,Masters,Indeed
+95,Beth Williams,Male,Masters,Job Fair
+96,Colleen Wright,Other,PhD,Indeed
+97,Tara Copeland,Male,Masters,LinkedIn
+98,James Cooke,Male,PhD,Website
+99,Jeremy Berry,Male,PhD,Website
+100,John Blair,Other,Bachelors,Website
+101,Tony Johnson,Female,Masters,Indeed
+102,Mr. Nicholas Green,Female,Bachelors,Job Fair
+103,Michael Burnett,Male,Masters,LinkedIn
+104,Abigail Smith,Other,Bachelors,Indeed
+105,Ricky Ray,Female,PhD,LinkedIn
+106,Brandon Pierce,Male,Masters,Website
+107,Ashley Yates,Other,Masters,Indeed
+108,Daniel Newton,Female,PhD,Job Fair
+109,Carol Baxter,Male,Bachelors,Website
+110,Aaron Rose,Other,Masters,Website
+111,Donna Bowman,Other,Masters,LinkedIn
+112,Kathleen Pitts,Other,PhD,Website
+113,Jacob Lee,Male,Masters,Website
+114,Shawn Long,Male,PhD,LinkedIn
+115,Stanley Palmer,Other,PhD,Job Fair
+116,Todd Ramirez,Female,Masters,Referral
+117,Jaclyn Huber,Male,Bachelors,Website
+118,James Montgomery,Other,Bachelors,Referral
+119,Larry Mcmahon,Other,PhD,Website
+120,James Chen,Other,Bachelors,Job Fair
+121,Robert Rogers,Other,Bachelors,Website
+122,Jason Mills,Female,PhD,LinkedIn
+123,Jeffery Michael,Male,Masters,Indeed
+124,Walter Davidson,Male,PhD,LinkedIn
+125,Cheryl Lloyd,Other,Masters,LinkedIn
+126,Jamie Terry,Male,Bachelors,Indeed
+127,Toni Day,Male,Masters,Indeed
+128,Mrs. Felicia Nunez MD,Other,Masters,Indeed
+129,Adam Jennings,Female,PhD,Indeed
+130,Zachary Brandt,Other,PhD,Website
+131,Amanda Escobar,Other,Masters,LinkedIn
+132,James Ballard,Other,PhD,Website
+133,Thomas Fischer,Female,PhD,LinkedIn
+134,Jessica Hernandez,Other,Masters,Referral
+135,Steven Taylor,Female,Bachelors,LinkedIn
+136,Cynthia Wagner,Female,Masters,Referral
+137,James Woods,Female,Masters,LinkedIn
+138,Richard Smith,Male,Bachelors,LinkedIn
+139,Christine White,Other,PhD,Referral
+140,Evan Bennett,Other,PhD,Referral
+141,Carlos Miller,Female,Masters,LinkedIn
+142,Rebecca Marsh,Male,Masters,Indeed
+143,Lindsay Cook,Male,Masters,LinkedIn
+144,Andrea Caldwell,Male,PhD,Job Fair
+145,Jeremy Foster,Other,Bachelors,LinkedIn
+146,Alexis Bishop,Other,Bachelors,Job Fair
+147,Mr. Michael Merritt PhD,Female,Masters,LinkedIn
+148,Logan Stone,Other,Bachelors,Website
+149,Kimberly Haynes,Female,Bachelors,Job Fair
+150,Vincent Howard,Female,Masters,LinkedIn
+151,Sara Lucas,Other,Masters,Referral
+152,Anthony Chavez,Other,Bachelors,Indeed
+153,Nicholas Garrett,Other,Bachelors,Referral
+154,Julie Harrison,Male,Masters,Referral
+155,Amanda Rodriguez,Other,Bachelors,Job Fair
+156,Colleen Mcguire,Male,Masters,Job Fair
+157,Jorge Jensen,Female,Bachelors,Website
+158,Jennifer Medina,Male,Bachelors,Website
+159,Barry Ortega,Other,Masters,Indeed
+160,Kenneth Mccall,Other,PhD,Website
+161,Taylor Hester,Other,Masters,Indeed
+162,Sharon Nichols,Female,Masters,LinkedIn
+163,Amber Lopez,Male,Bachelors,Referral
+164,Zachary Clarke,Male,Masters,Job Fair
+165,Kevin Castillo,Male,PhD,Website
+166,Catherine Brown,Female,PhD,Job Fair
+167,Holly Benson,Male,PhD,Job Fair
+168,Brandy Long,Other,Masters,Referral
+169,Patrick David,Other,PhD,Job Fair
+170,Garrett Johnson,Female,Masters,Website
+171,Lisa Hale,Male,Bachelors,Indeed
+172,Evan White,Male,PhD,Job Fair
+173,Donna Mcbride,Male,Masters,Indeed
+174,Brian Pearson,Female,Masters,Website
+175,Richard Gonzales,Female,Bachelors,Indeed
+176,Alexis Andrews,Other,Bachelors,Indeed
+177,Robin Vasquez,Male,Bachelors,Indeed
+178,Angela Oconnell,Female,Bachelors,LinkedIn
+179,Michelle Garcia,Male,Bachelors,LinkedIn
+180,Abigail Lopez,Female,PhD,Website
+181,Tiffany Lopez,Male,Bachelors,Website
+182,Lindsey Carrillo,Female,Bachelors,Website
+183,Jennifer Cannon,Other,PhD,Referral
+184,Victoria Martin,Male,Bachelors,Website
+185,Shannon Hernandez,Male,Bachelors,Job Fair
+186,Vicki Carroll,Female,Bachelors,Website
+187,Nathan Jones,Other,Masters,Website
+188,Sheri Hunter,Female,PhD,Job Fair
+189,Brad Knight PhD,Male,PhD,Website
+190,Patricia Mueller,Male,Masters,Referral
+191,Shelby Owens,Male,Masters,Job Fair
+192,Mary Reid,Male,Bachelors,Referral
+193,Jessica Clark,Male,PhD,Indeed
+194,Casey Camacho,Other,Bachelors,Website
+195,Joseph Barron,Other,Masters,LinkedIn
+196,Amanda Cooke,Female,Masters,Website
+197,Steven Ellis,Other,Bachelors,Indeed
+198,John Schneider,Female,Masters,Website
+199,Robert Butler,Male,Masters,Website
+200,Heather Smith,Female,Masters,LinkedIn
+201,Robin Carroll,Female,Masters,Referral
+202,Heather Robles,Male,Masters,LinkedIn
+203,Tyler Johnson,Male,Bachelors,Job Fair
+204,Paige Mason,Male,PhD,LinkedIn
+205,Michele Lloyd,Male,Masters,Referral
+206,Tracy Bauer,Female,PhD,Job Fair
+207,Justin Smith,Other,Masters,Referral
+208,Michael Smith,Other,Bachelors,Website
+209,Dean Pham,Male,Masters,Website
+210,Deanna Burns,Other,Masters,LinkedIn
+211,Kenneth Flynn,Female,PhD,Job Fair
+212,William Burton,Female,PhD,Referral
+213,Spencer Price,Male,Masters,Referral
+214,Alexandra Fry,Male,Bachelors,Job Fair
+215,Susan Scott,Male,Masters,Job Fair
+216,Todd Carr,Other,Masters,LinkedIn
+217,Adrian Rodriguez,Other,Masters,Indeed
+218,Carl Rivera,Other,PhD,LinkedIn
+219,Marie Mills,Other,PhD,LinkedIn
+220,Christina Martinez,Female,Masters,Indeed
+221,Michael Adams,Other,PhD,Referral
+222,Michelle Harris,Other,Masters,LinkedIn
+223,Shelia Olson,Male,Masters,Website
+224,Robert Terry,Female,Masters,Website
+225,James Ellis,Female,PhD,LinkedIn
+226,Holly Pineda,Other,PhD,Indeed
+227,Darrell Noble,Male,Bachelors,Referral
+228,Cheyenne Powers,Female,Masters,Referral
+229,Jennifer Young,Female,Bachelors,LinkedIn
+230,Devin Mora,Male,Bachelors,Job Fair
+231,Juan Pitts,Other,Bachelors,Indeed
+232,Adam Campbell,Female,Masters,Website
+233,Joel Holland,Female,PhD,Website
+234,Michael Williamson,Other,PhD,Website
+235,John Morton,Male,Masters,Referral
+236,Wayne Wilson,Other,PhD,Indeed
+237,Jason White,Other,PhD,Website
+238,Krystal Burke,Other,Bachelors,Website
+239,Brandon Nelson,Male,Bachelors,Referral
+240,Rebecca Brown,Male,Bachelors,Referral
+241,Abigail Nunez,Other,Bachelors,Indeed
+242,Brenda Patterson,Male,PhD,Job Fair
+243,James Navarro,Female,Masters,Job Fair
+244,Maria Snyder,Other,Masters,Job Fair
+245,Theresa Lee,Other,PhD,Referral
+246,James Huerta,Male,Bachelors,LinkedIn
+247,Dean Nixon,Female,Bachelors,Job Fair
+248,Jason Lewis,Male,PhD,Website
+249,Savannah Meyer,Female,PhD,Referral
+250,Eric Bailey,Other,PhD,Job Fair
+251,Antonio Sharp,Male,PhD,Website
+252,Amy Lawson,Female,Bachelors,Indeed
+253,Michael Sherman,Other,PhD,LinkedIn
+254,Shannon Bowers,Male,Bachelors,Indeed
+255,Jacob Wright,Male,Bachelors,Indeed
+256,Kendra Shaw,Male,PhD,Referral
+257,Christine Phillips,Female,PhD,Indeed
+258,Mr. Joshua Mack MD,Male,Masters,Referral
+259,Amanda Mason,Other,Masters,Job Fair
+260,Martha Davis,Female,PhD,Job Fair
+261,Joel Ruiz,Female,PhD,Website
+262,Casey Campbell,Male,Masters,Website
+263,John Smith,Other,Masters,Website
+264,Sandra Sweeney,Male,PhD,Job Fair
+265,Rachel Green,Male,PhD,Referral
+266,Hailey Wilson MD,Male,Masters,Indeed
+267,Mark Collins PhD,Female,PhD,Indeed
+268,Emily Jones,Female,Bachelors,Indeed
+269,David Davila,Female,Masters,Referral
+270,Mark Chang,Female,Bachelors,Referral
+271,Denise Knox,Female,PhD,Indeed
+272,Melissa Sanders,Female,Masters,Referral
+273,Amanda Martin,Female,Bachelors,Job Fair
+274,Jennifer Thompson,Male,Masters,LinkedIn
+275,Terry Ramirez,Female,PhD,Indeed
+276,James Taylor,Other,PhD,LinkedIn
+277,Robert Taylor,Female,PhD,Indeed
+278,Sharon Heath,Other,PhD,Referral
+279,Beth Morrison,Male,Masters,Referral
+280,Mark Miller,Other,PhD,Website
+281,Kathleen Weaver,Female,Bachelors,Indeed
+282,Gary Brown,Female,Bachelors,Referral
+283,Lisa Murray,Male,PhD,Job Fair
+284,Tracy Norton,Other,Masters,Website
+285,David Walters,Female,Masters,LinkedIn
+286,Andrew Johnson,Other,PhD,Referral
+287,James Hicks,Female,Masters,Website
+288,Rebecca Ellison,Male,Bachelors,Indeed
+289,Amber Duncan,Male,Bachelors,Indeed
+290,Sandra Dunlap,Other,Masters,LinkedIn
+291,Kelly Rose,Female,Masters,LinkedIn
+292,Melissa Klein,Female,PhD,Indeed
+293,Shelby Rice,Male,Masters,Job Fair
+294,David Thomas,Male,PhD,Indeed
+295,Matthew Kane,Other,Masters,Job Fair
+296,Michael Craig,Other,Masters,Job Fair
+297,Sara Baker,Other,PhD,Indeed
+298,Joseph Davis,Male,PhD,Indeed
+299,Courtney Young,Other,Masters,Job Fair
+300,Emily Hernandez,Female,Bachelors,Indeed
+301,Jacob White,Female,Masters,LinkedIn
+302,Emily Aguilar,Other,Masters,Referral
+303,Michael Mcdonald,Female,Masters,Job Fair
+304,Amanda Lopez,Male,PhD,Website
+305,Laura Williams,Male,Masters,LinkedIn
+306,Susan Berry,Other,Bachelors,Referral
+307,Jordan Douglas,Male,PhD,LinkedIn
+308,Andrew Avila,Female,Masters,Website
+309,Marie Dominguez,Other,Masters,Website
+310,Robert Flores,Female,Bachelors,Job Fair
+311,Patrick Nunez,Other,Bachelors,Website
+312,Nicholas Wolfe,Female,Masters,Indeed
+313,Susan Sanchez,Male,PhD,Job Fair
+314,Steve Hayes,Male,PhD,Referral
+315,Zoe Gonzales,Other,Bachelors,Referral
+316,Adam Garcia,Female,Bachelors,Referral
+317,Chelsea Mckay,Other,Bachelors,Website
+318,Jesse Schneider,Female,PhD,Website
+319,Adam Cook,Female,Bachelors,Website
+320,Christine Schmitt,Female,Bachelors,Referral
+321,Taylor Lowe,Male,Masters,Job Fair
+322,Kevin Brewer,Other,Masters,LinkedIn
+323,Grant Martinez,Other,Masters,LinkedIn
+324,Brent Collins,Male,Bachelors,Indeed
+325,Joyce Morgan PhD,Female,Masters,Referral
+326,Caitlin Kennedy,Male,PhD,Referral
+327,Jaime Walters,Other,Bachelors,LinkedIn
+328,Martin Taylor,Other,Masters,Indeed
+329,Charles Foster,Female,Bachelors,LinkedIn
+330,Julie Kidd,Male,Masters,Indeed
+331,Michael Rodriguez,Other,PhD,Job Fair
+332,Charles Wade,Male,Masters,Referral
+333,Chad Wallace,Other,Masters,LinkedIn
+334,Pamela Harrison,Male,Bachelors,Job Fair
+335,Timothy Fuentes,Other,PhD,Website
+336,Crystal Valdez,Male,PhD,Referral
+337,Erika Kirby,Female,Masters,Website
+338,Douglas Watson,Male,Masters,Website
+339,David Lynch,Other,Bachelors,Referral
+340,Dylan White,Other,Bachelors,LinkedIn
+341,James Cook,Female,Bachelors,Referral
+342,Jose Martin,Male,PhD,Job Fair
+343,Vanessa Duncan,Male,Bachelors,Website
+344,Frank Johnson,Male,Bachelors,Referral
+345,Barry White,Other,Masters,Job Fair
+346,Marvin Gould,Female,PhD,LinkedIn
+347,Stacey Mathis,Other,PhD,Indeed
+348,Richard Jones,Female,Masters,LinkedIn
+349,April Randall,Other,Masters,LinkedIn
+350,Robert Davis,Other,PhD,Referral
+351,David Blackburn,Female,Bachelors,LinkedIn
+352,David Velasquez,Other,Bachelors,LinkedIn
+353,Teresa Wood,Female,Bachelors,Indeed
+354,Laura Perez,Other,PhD,Referral
+355,Sara Barnett,Male,PhD,LinkedIn
+356,Edward Perez,Male,Masters,Referral
+357,Jeremy Potts,Female,Bachelors,Referral
+358,Emily White,Female,Bachelors,Indeed
+359,Sarah Perez,Male,Bachelors,Indeed
+360,Alice Cohen,Female,Masters,LinkedIn
+361,Jeffrey Nunez,Female,Masters,Job Fair
+362,Anna Simmons,Female,Bachelors,LinkedIn
+363,Joseph Smith,Female,Masters,LinkedIn
+364,Mrs. Erika Hall MD,Other,PhD,Referral
+365,Nancy Young,Other,PhD,Website
+366,Jennifer Hopkins,Female,PhD,Job Fair
+367,Barry Hernandez,Female,Masters,LinkedIn
+368,Michelle Johnson,Male,Bachelors,Indeed
+369,Nicholas Bryant,Male,PhD,Referral
+370,Zoe Lewis,Male,Masters,Referral
+371,Derek Wagner,Male,Masters,Referral
+372,Kara Lam,Female,Bachelors,Job Fair
+373,Jodi Dudley,Male,Masters,Referral
+374,Cheryl Wong,Male,PhD,Referral
+375,Emily Kelley,Other,PhD,Website
+376,Arthur Church,Female,Bachelors,Referral
+377,Alexandra Gill,Female,PhD,Website
+378,Kathryn Marquez,Other,PhD,Referral
+379,Jessica Lambert,Male,Masters,Referral
+380,Gregory Frazier,Male,Bachelors,Indeed
+381,Kari Grant,Other,Masters,Website
+382,Vincent Parks,Other,PhD,Job Fair
+383,Andrea Murray,Other,Bachelors,Job Fair
+384,Jerry Hernandez,Other,Masters,Job Fair
+385,Madeline Best,Other,Masters,Referral
+386,Phyllis Garner,Other,Masters,Job Fair
+387,Daniel Jordan,Male,Masters,Website
+388,Dr. Caitlin Harrison,Other,Masters,LinkedIn
+389,Donna Parker MD,Male,Masters,LinkedIn
+390,Stacy Bass,Other,Masters,Indeed
+391,Michael Peterson,Female,Bachelors,Website
+392,Brittany Saunders,Female,Masters,Job Fair
+393,Michael Davies,Male,Masters,Job Fair
+394,Steven Fowler,Male,PhD,Job Fair
+395,Sara Jones,Female,PhD,LinkedIn
+396,Joseph Clark,Female,Masters,Job Fair
+397,Karen Duncan,Female,Bachelors,Referral
+398,Rebekah Davila,Other,PhD,Indeed
+399,Sandra Tucker,Male,Masters,Job Fair
+400,Joe Moore,Male,Bachelors,Referral
+401,Jessica Bell,Other,Masters,Indeed
+402,Patrick Stokes,Female,Masters,Indeed
+403,Robert Ramos,Other,Masters,Job Fair
+404,Eric Fernandez,Other,Masters,Indeed
+405,Alyssa Jackson,Male,Bachelors,Referral
+406,Abigail Cervantes,Female,Masters,Referral
+407,Teresa Pearson,Male,Bachelors,Job Fair
+408,Tamara Kim,Female,Bachelors,LinkedIn
+409,Allison Rodriguez,Other,Bachelors,Indeed
+410,Robin Cook,Female,Bachelors,LinkedIn
+411,Kimberly Peterson,Male,PhD,Referral
+412,Caleb Dean,Other,PhD,Indeed
+413,Leah Malone,Male,Masters,Indeed
+414,Anthony Davenport,Male,PhD,Referral
+415,Michael Hernandez,Other,Masters,Job Fair
+416,Matthew Ramirez,Female,Bachelors,Job Fair
+417,Chase Robinson,Male,Bachelors,Indeed
+418,Tabitha Heath,Male,Masters,Referral
+419,Melvin Cruz,Female,PhD,LinkedIn
+420,Amber Jackson,Male,Bachelors,Job Fair
+421,Robert Chapman,Male,Bachelors,Website
+422,Ariel Davidson,Other,Masters,Indeed
+423,Ashley Perez,Other,PhD,Indeed
+424,James Carlson,Female,Masters,Referral
+425,Marc Koch,Female,Bachelors,Referral
+426,Kathy Soto,Female,Masters,Job Fair
+427,Connie Carney,Male,Bachelors,Referral
+428,Tammy Silva,Male,Bachelors,Referral
+429,Thomas White,Male,Masters,Website
+430,Barbara Harper,Female,PhD,Job Fair
+431,Cindy Shields,Female,Bachelors,Referral
+432,Kevin Morris PhD,Male,Masters,Indeed
+433,Elizabeth Stone,Other,Masters,Website
+434,Sandra Melendez,Other,PhD,Indeed
+435,Cesar Moore,Male,PhD,Indeed
+436,Eric Reyes,Other,Bachelors,Website
+437,Jennifer Jones,Female,PhD,Website
+438,Samantha Hanna,Male,PhD,Website
+439,Kathleen Nunez,Other,Masters,Job Fair
+440,Kenneth Horn,Male,Masters,Referral
+441,Jason Sanders,Other,Masters,Referral
+442,Sean Kennedy,Other,Bachelors,Referral
+443,Donald Herring,Other,Masters,Job Fair
+444,Brooke Ramirez,Male,Masters,Indeed
+445,Jennifer Thomas,Male,Masters,Website
+446,Peter Moore,Other,PhD,Job Fair
+447,Richard Evans,Female,PhD,Indeed
+448,Scott Savage,Female,Masters,Job Fair
+449,Valerie Mclean,Other,PhD,LinkedIn
+450,Donald Richardson,Other,Bachelors,Referral
+451,Jessica Ramirez,Female,PhD,Job Fair
+452,William Nguyen,Other,Masters,Indeed
+453,Dennis Gentry,Female,PhD,Job Fair
+454,Michelle Cox MD,Male,PhD,LinkedIn
+455,David Williams,Female,Bachelors,Referral
+456,Ashley Reyes,Other,PhD,Website
+457,Deanna Willis,Female,Masters,Referral
+458,Cody Wells,Other,Masters,Referral
+459,Edgar Mccann,Male,Masters,Indeed
+460,Deborah Johnston,Female,Masters,Job Fair
+461,Brian Henry,Male,Masters,Indeed
+462,Sarah Weaver,Male,Bachelors,Indeed
+463,Rebecca Stokes,Male,PhD,Indeed
+464,Marvin Mueller,Other,Bachelors,LinkedIn
+465,James Graves,Other,PhD,LinkedIn
+466,Danny Carlson,Female,Masters,Job Fair
+467,Stephanie Williams,Male,Masters,LinkedIn
+468,Shannon Rogers,Other,PhD,Job Fair
+469,Andrea Lozano,Male,Bachelors,Website
+470,Elaine Davis,Female,Bachelors,Job Fair
+471,Mike Wilson,Other,Masters,Referral
+472,Sabrina Jones,Male,PhD,Job Fair
+473,Christopher Marks,Female,Masters,Referral
+474,Scott Patton,Male,Masters,Indeed
+475,Kathleen Lopez,Female,Bachelors,Website
+476,Jeanette Rodriguez,Other,PhD,Referral
+477,Mrs. Tonya Moore DVM,Male,PhD,Referral
+478,Katherine Murillo,Female,PhD,Job Fair
+479,Erin Turner,Male,Masters,LinkedIn
+480,James Ortega,Female,PhD,Website
+481,Kimberly Olson,Male,Masters,LinkedIn
+482,Anna Sanchez,Other,Masters,Indeed
+483,Perry Cruz,Other,Bachelors,Referral
+484,Natalie Anderson,Female,PhD,Referral
+485,Dr. Mariah Lopez MD,Other,Bachelors,Website
+486,Kevin Fletcher,Male,Bachelors,Indeed
+487,Timothy Moreno,Male,Bachelors,Website
+488,Christopher Patel,Male,PhD,Referral
+489,Jimmy Valentine,Female,Bachelors,LinkedIn
+490,Frank Lambert,Male,PhD,Job Fair
+491,Benjamin Porter,Female,PhD,Referral
+492,Shawn Miller,Female,Bachelors,Job Fair
+493,Sara Bradford,Other,Bachelors,Job Fair
+494,Susan Kelly,Male,PhD,Job Fair
+495,Randy Smith,Male,PhD,LinkedIn
+496,Eric Guerrero,Other,Masters,LinkedIn
+497,Joshua Maldonado,Male,Bachelors,Referral
+498,Joyce Knight,Other,PhD,Indeed
+499,Richard Ross,Other,Masters,Indeed
+500,James Williams,Other,Bachelors,Indeed

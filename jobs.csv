@@ -1,0 +1,51 @@
+job_id,job_title,department,recruiter_id,date_posted,date_closed
+1,Data Analyst,IT,6,2025-07-17,2025-09-19
+2,Data Analyst,IT,7,2025-08-05,2025-09-03
+3,Business Development Manager,Sales,1,2025-06-15,2025-09-04
+4,Accountant,Finance,9,2025-09-01,2025-11-23
+5,Talent Acquisition Specialist,HR,2,2025-06-07,2025-08-24
+6,Sales Executive,Sales,3,2025-09-11,2025-10-29
+7,Sales Executive,Sales,8,2025-04-25,2025-05-27
+8,DevOps Engineer,IT,8,2025-07-11,2025-10-07
+9,Business Development Manager,Sales,4,2025-08-06,2025-09-09
+10,Software Engineer,IT,1,2025-09-04,2025-09-24
+11,Financial Analyst,Finance,10,2025-05-20,2025-06-15
+12,Content Strategist,Marketing,10,2025-07-25,2025-09-17
+13,Software Engineer,IT,8,2025-08-06,2025-10-10
+14,HR Executive,HR,6,2025-07-22,2025-08-18
+15,Talent Acquisition Specialist,HR,10,2025-07-27,2025-10-20
+16,Content Strategist,Marketing,6,2025-08-04,2025-10-19
+17,HR Executive,HR,10,2025-05-14,2025-07-14
+18,Marketing Manager,Marketing,8,2025-07-17,2025-10-09
+19,Software Engineer,IT,8,2025-08-15,2025-11-04
+20,Content Strategist,Marketing,4,2025-09-14,2025-10-27
+21,Data Analyst,IT,9,2025-06-26,2025-08-13
+22,Data Analyst,IT,9,2025-05-01,2025-06-21
+23,Talent Acquisition Specialist,HR,10,2025-05-06,2025-05-25
+24,Talent Acquisition Specialist,HR,1,2025-04-22,2025-05-22
+25,Marketing Manager,Marketing,10,2025-05-24,2025-07-08
+26,Business Development Manager,Sales,2,2025-06-28,2025-08-16
+27,DevOps Engineer,IT,2,2025-08-26,2025-11-09
+28,HR Executive,HR,5,2025-08-20,2025-09-18
+29,DevOps Engineer,IT,1,2025-04-23,2025-06-18
+30,Software Engineer,IT,6,2025-08-26,2025-11-11
+31,Software Engineer,IT,4,2025-05-13,2025-07-22
+32,DevOps Engineer,IT,8,2025-06-05,2025-07-19
+33,Business Development Manager,Sales,8,2025-08-06,2025-09-28
+34,Software Engineer,IT,1,2025-05-05,2025-07-05
+35,Marketing Manager,Marketing,2,2025-08-01,2025-10-29
+36,Business Development Manager,Sales,9,2025-07-08,2025-09-11
+37,Financial Analyst,Finance,1,2025-04-18,2025-05-13
+38,Accountant,Finance,5,2025-09-21,2025-10-16
+39,HR Executive,HR,2,2025-05-24,2025-08-10
+40,Talent Acquisition Specialist,HR,1,2025-07-10,2025-10-04
+41,Marketing Manager,Marketing,8,2025-06-17,2025-08-14
+42,Financial Analyst,Finance,5,2025-07-03,2025-09-09
+43,DevOps Engineer,IT,6,2025-09-25,2025-12-02
+44,Business Development Manager,Sales,9,2025-04-21,2025-06-06
+45,Accountant,Finance,7,2025-05-13,2025-07-09
+46,Accountant,Finance,10,2025-09-28,2025-11-16
+47,Financial Analyst,Finance,1,2025-07-29,2025-10-25
+48,Business Development Manager,Sales,6,2025-05-16,2025-07-03
+49,Financial Analyst,Finance,2,2025-05-13,2025-06-26
+50,DevOps Engineer,IT,2,2025-06-22,2025-08-07
