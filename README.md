@@ -9,10 +9,10 @@ POWER BI DATA VISUALIZATION and ANALYSIS
 
 
 ********************************  *****************  ****************  *****************
-ANALYSIS thru USING PYTHON connecting SQL
+# ANALYSIS thru USING PYTHON connecting SQL
 LIB: MATPLOTLIB,SEABORN
 
-Connect to MySQL
+# Connect to MySQL
 conn = mysql.connector.connect(
     host="Paste hete your host name",
     user="user name",
@@ -37,7 +37,7 @@ plt.show()
 <img width="800" height="500" alt="Figure_1" src="https://github.com/user-attachments/assets/1b6ad006-e5cf-4c4b-940b-0b9abb12e4c8" />
 
 
-2) ****** Recruiter Experience Distribution  ***********
+2) ****** # Recruiter Experience Distribution  ***********
    
 import mysql.connector
 import matplotlib.pyplot as plt
@@ -57,11 +57,11 @@ plt.show()
 
 <img width="600" height="400" alt="Figure_2" src="https://github.com/user-attachments/assets/581ab8a4-1e00-453c-8667-429403fd17a3" />
 
-3) ******  Average Applications per Job *************
+3) ******  # Average Applications per Job *************
 
 applications_df = pd.read_sql("SELECT * FROM applications", conn)
 
-# Count applications per job
+// Count applications per job
 apps_per_job = applications_df.groupby('job_id').size().reset_index(name='application_count')
 
 plt.figure(figsize=(8,5))
@@ -75,7 +75,7 @@ plt.show()
 
 <img width="800" height="500" alt="Figure_3" src="https://github.com/user-attachments/assets/fbb960e9-060b-404a-b0c5-05a3bcb01fae" />
 
-4)  ******  Time to Fill a Job    *************
+4)  ****** # Time to Fill a Job    *************
 
 jobs_df['date_posted'] = pd.to_datetime(jobs_df['date_posted'])
 jobs_df['date_closed'] = pd.to_datetime(jobs_df['date_closed'])
