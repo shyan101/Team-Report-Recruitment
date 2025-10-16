@@ -89,6 +89,20 @@ plt.show()
 
 <img width="800" height="500" alt="Figure_6" src="https://github.com/user-attachments/assets/27f9b4ef-6db7-45cf-a635-ce7af6c54a00" />
 
+# Recruiter Performance
+
+recruiter_perf = jobs.groupby('recruiter_id').size().reset_index(name='jobs_filled')
+merged = recruiter_perf.merge(recruiters, on='recruiter_id')
+plt.figure(figsize=(9,5))
+sns.barplot(x='recruiter_name', y='jobs_filled', data=merged)
+plt.title("Recruiter Performance (Jobs Filled)")
+plt.xticks(rotation=45)
+plt.tight_layout()
+plt.show()
+
+
+<img width="900" height="500" alt="Figure_13" src="https://github.com/user-attachments/assets/e47f1e14-f44b-47eb-8994-140c5d99a518" />
+
 
 
 
